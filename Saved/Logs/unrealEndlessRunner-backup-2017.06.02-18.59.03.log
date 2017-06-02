@@ -1,0 +1,152 @@
+﻿Log file open, 06/02/17 17:34:57
+LogInit:Display: Running engine for game: unrealEndlessRunner
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1129997555) SRandInit(1129997557).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.184863
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.15-CL-3299760
+LogInit: Engine Version: 4.15.0-3299760+++UE4+Release-4.15
+LogInit: Compatible Engine Version: 4.15.0-3299760+++UE4+Release-4.15
+LogInit: Net CL: 3299760
+LogDevObjectVersion: Number of dev versions registered: 14
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 8
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 14
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 22
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 3
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogInit: Compiled (64-bit): Feb 14 2017 02:04:14
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.15
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.06.02-08.34.58:861][  0]LogInit: Selected Device Profile: [Windows]
+[2017.06.02-08.34.58:861][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.06.02-08.34.58:876][  0]LogInit: Computer: G416-27
+[2017.06.02-08.34.58:876][  0]LogInit: User: 400T6B
+[2017.06.02-08.34.58:876][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.06.02-08.34.58:876][  0]LogInit: High frequency timer resolution =3.117190 MHz
+[2017.06.02-08.34.58:876][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.06.02-08.34.58:876][  0]LogMemory: Platform Memory Stats for Windows
+[2017.06.02-08.34.58:876][  0]LogMemory: Process Physical Memory: 261.30 MB used, 261.30 MB peak
+[2017.06.02-08.34.58:876][  0]LogMemory: Process Virtual Memory: 262.33 MB used, 262.33 MB peak
+[2017.06.02-08.34.58:876][  0]LogMemory: Physical Memory: 3749.78 MB used,  4399.96 MB free, 8149.74 MB total
+[2017.06.02-08.34.58:876][  0]LogMemory: Virtual Memory: 633.38 MB used,  4399.96 MB free, 134217728.00 MB total
+[2017.06.02-08.34.58:967][  0]LogTextLocalizationManager: No specific translations for ('ko-KR') exist, so ('ko') translations will be used.
+[2017.06.02-08.34.59:014][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:KismetSchema, Key:Default):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (940523119) Localized String: (디폴트)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (940523119) Localized String: (기본)
+[2017.06.02-08.34.59:014][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:InternalTimeAccumulator):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (502993589) Localized String: (이 노드에서 애셋을 레퍼런싱하는 데 사용되는 누적 시간입니다.)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (502993589) Localized String: (이 노드에서 애셋을 레퍼런싱하는 데 사용된 누적 시간입니다.)
+[2017.06.02-08.34.59:014][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:bIgnoreForRelevancyTest):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (319969718) Localized String: (True 면, 스테이트에서 최고 가중치 애니메이션을 찾는 "Relevant anim" 노드는 이 노드를 무시합니다.
+ )
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (319969718) Localized String: (True 면 스테이트 내 최고 웨이팅된 애니메이션을 찾는 "Relevant anim" 노드가 무시됩니다.
+ )
+[2017.06.02-08.34.59:014][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:BlendWeight):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (-1232800293) Localized String: (이 노드에 마지막 걸린 블렌드웨이트 입니다.)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (-1232800293) Localized String: (이 노드에 대해 마지막 접한 블렌드 웨이트)
+[2017.06.02-08.34.59:377][  0]LogD3D11RHI: D3D11 adapters:
+[2017.06.02-08.34.59:432][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2017.06.02-08.34.59:432][  0]LogD3D11RHI:       973/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.06.02-08.34.59:434][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.06.02-08.34.59:434][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.06.02-08.34.59:434][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.06.02-08.34.59:439][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.06.02-08.34.59:439][  0]LogD3D11RHI:     GPU DeviceId: 0x1289 (for the marketing name, search the web for "GPU Device Id")
+[2017.06.02-08.34.59:439][  0]LogWindows: EnumDisplayDevices:
+[2017.06.02-08.34.59:439][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2017.06.02-08.34.59:439][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2017.06.02-08.34.59:439][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2017.06.02-08.34.59:440][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.06.02-08.34.59:440][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2017.06.02-08.34.59:440][  0]LogD3D11RHI:   Driver Version: 359.30 (internal:10.18.13.5930, unified:359.30)
+[2017.06.02-08.34.59:440][  0]LogD3D11RHI:      Driver Date: 1-3-2016
+[2017.06.02-08.34.59:440][  0]LogRHI: Texture pool is 681 MB (70% of 973 MB)
+[2017.06.02-08.34.59:451][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.06.02-08.34.59:451][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2017.06.02-08.34.59:451][  0]LogD3D11RHI: Async texture creation enabled
+[2017.06.02-08.34.59:467][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.06.02-08.34.59:468][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Users/400T6B/Desktop/fleeKaHJ/LHJ/Intermediate/Shaders/WorkingDirectory/7164/).
+[2017.06.02-08.34.59:468][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/400T6B/AppData/Local/Temp/UnrealShaderWorkingDir/1E94368B4756DD8E70A43E9896F1C8CF/'.
+[2017.06.02-08.34.59:468][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.06.02-08.35.00:836][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.06.02-08.35.00:892][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.06.02-08.35.00:947][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.06.02-08.35.01:008][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.06.02-08.35.01:075][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.06.02-08.35.01:136][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.06.02-08.35.01:201][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.06.02-08.35.01:269][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.06.02-08.35.01:318][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.06.02-08.35.01:400][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.06.02-08.35.01:461][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.06.02-08.35.01:522][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.06.02-08.35.01:583][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.06.02-08.35.01:644][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.06.02-08.35.01:702][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.06.02-08.35.01:816][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.06.02-08.35.01:816][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.06.02-08.35.01:853][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.06.02-08.35.01:983][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.06.02-08.35.02:023][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.06.02-08.35.02:083][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.06.02-08.35.02:134][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.06.02-08.35.02:190][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.06.02-08.35.02:286][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.06.02-08.35.02:286][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.06.02-08.35.02:736][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.06.02-08.35.03:059][  0]LogDerivedDataCache: Loaded boot cache 0.32s 50MB C:/Users/400T6B/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc.
+[2017.06.02-08.35.03:059][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/400T6B/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc
+[2017.06.02-08.35.03:059][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/400T6B/Desktop/fleeKaHJ/LHJ/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.06.02-08.35.03:059][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.06.02-08.35.03:059][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/400T6B/Desktop/fleeKaHJ/LHJ/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.06.02-08.35.03:059][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.06.02-08.35.03:078][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.06.02-08.35.03:091][  0]LogDerivedDataCache: Using Local data cache path C:/Users/400T6B/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.06.02-08.35.03:103][  0]LogSlate: Using Freetype 2.6.0
+[2017.06.02-08.35.03:129][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.06.02-08.35.03:129][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.06.02-08.35.03:871][  0]LogInit: Selected Device Profile: [Windows]
+[2017.06.02-08.35.03:874][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.06.02-08.35.04:160][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.06.02-08.35.04:199][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.06.02-08.35.04:243][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.06.02-08.35.04:243][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.06.02-08.35.04:243][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.06.02-08.35.05:776][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3299760, ProjectName: unrealendlessrunner, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 677389359
+[2017.06.02-08.35.05:818][  0]LogAssetRegistry: FAssetRegistry took 0.0212 seconds to start up
+[2017.06.02-08.35.05:865][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.028849 seconds
+[2017.06.02-08.35.05:873][  0]LogUObjectArray: 32475 objects as part of root set at end of initial load.
+[2017.06.02-08.35.05:873][  0]LogUObjectAllocator: 7073368 out of 0 bytes used by permanent object pool.
+[2017.06.02-08.35.05:873][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.06.02-08.35.05:931][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
