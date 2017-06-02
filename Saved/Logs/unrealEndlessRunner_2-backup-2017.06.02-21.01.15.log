@@ -1,0 +1,77 @@
+﻿Log file open, 05/21/17 21:31:06
+LogInit:Display: Running engine for game: unrealEndlessRunner
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1419531316) SRandInit(1419531316).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.071601
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.15-CL-3299760
+LogInit: Engine Version: 4.15.0-3299760+++UE4+Release-4.15
+LogInit: Compatible Engine Version: 4.15.0-3299760+++UE4+Release-4.15
+LogInit: Net CL: 3299760
+LogDevObjectVersion: Number of dev versions registered: 14
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 8
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 14
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 22
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 3
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogInit: Compiled (64-bit): Feb 14 2017 02:04:14
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.15
+LogInit: Command line:  /Temp/Autosaves/Temp/UEDPCUntitled_4 -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.05.21-12.31.06:867][  0]LogInit: Selected Device Profile: [Windows]
+[2017.05.21-12.31.06:867][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.05.21-12.31.06:871][  0]LogInit: Computer: G416-27
+[2017.05.21-12.31.06:871][  0]LogInit: User: 400T6B
+[2017.05.21-12.31.06:871][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.05.21-12.31.06:871][  0]LogInit: High frequency timer resolution =3.117184 MHz
+[2017.05.21-12.31.06:871][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.05.21-12.31.06:871][  0]LogMemory: Platform Memory Stats for Windows
+[2017.05.21-12.31.06:871][  0]LogMemory: Process Physical Memory: 261.91 MB used, 261.91 MB peak
+[2017.05.21-12.31.06:871][  0]LogMemory: Process Virtual Memory: 262.36 MB used, 262.36 MB peak
+[2017.05.21-12.31.06:871][  0]LogMemory: Physical Memory: 3435.77 MB used,  4713.96 MB free, 8149.74 MB total
+[2017.05.21-12.31.06:871][  0]LogMemory: Virtual Memory: 639.20 MB used,  4713.96 MB free, 134217728.00 MB total
+[2017.05.21-12.31.06:946][  0]LogTextLocalizationManager: No specific translations for ('ko-KR') exist, so ('ko') translations will be used.
+[2017.05.21-12.31.06:981][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:KismetSchema, Key:Default):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (940523119) Localized String: (디폴트)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (940523119) Localized String: (기본)
+[2017.05.21-12.31.06:982][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:InternalTimeAccumulator):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (502993589) Localized String: (이 노드에서 애셋을 레퍼런싱하는 데 사용되는 누적 시간입니다.)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (502993589) Localized String: (이 노드에서 애셋을 레퍼런싱하는 데 사용된 누적 시간입니다.)
+[2017.05.21-12.31.06:982][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:bIgnoreForRelevancyTest):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (319969718) Localized String: (True 면, 스테이트에서 최고 가중치 애니메이션을 찾는 "Relevant anim" 노드는 이 노드를 무시합니다.
+ )
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (319969718) Localized String: (True 면 스테이트 내 최고 웨이팅된 애니메이션을 찾는 "Relevant anim" 노드가 무시됩니다.
+ )
+[2017.05.21-12.31.06:982][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:BlendWeight):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (-1232800293) Localized String: (이 노드에 마지막 걸린 블렌드웨이트 입니다.)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (-1232800293) Localized String: (이 노드에 대해 마지막 접한 블렌드 웨이트)
