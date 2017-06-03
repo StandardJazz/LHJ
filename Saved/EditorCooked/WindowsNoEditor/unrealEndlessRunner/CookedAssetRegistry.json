@@ -3400,6 +3400,42 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Engine/EngineMaterials/EmissiveTexturedMaterial",
+			"CookedPackageName": "/Engine/EngineMaterials/EmissiveTexturedMaterial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "27c9eb28004d8ff03e8c141ff294b78e",
+			"FullPackageHash": "a4f8f362a4169854548be9373de40256",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMaterials/FlatNormal",
+			"CookedPackageName": "/Engine/EngineMaterials/FlatNormal",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/EngineMaterials/FlatNormal.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "683240def79ae46f5527eb5bcc06ecdf",
+			"FullPackageHash": "851f82674c2c5d6f3d1c2807ce0ab709",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
 			"CookedPackageName": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -3850,6 +3886,23 @@
 				"/Script/CoreUObject",
 				"/Script/Engine",
 				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/EngineMeshes/ParticleCube",
+			"CookedPackageName": "/Engine/EngineMeshes/ParticleCube",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/EngineMeshes/ParticleCube.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d50df8704a413993ec4f8f573496268b",
+			"FullPackageHash": "53fa73f2cba7d8c1e7b8d77e024dc20a",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
 			],
 			"FileSize": "-1",
 			"AssetData": []
@@ -6185,28 +6238,11 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/EffectItemPickUp",
-			"CookedPackageName": "/Game/EffectItemPickUp",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/EffectItemPickUp.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "185844b919bc3a9791d6f3d56f2a582e",
-			"FullPackageHash": "47b1d80e28cc84b22718912dbae47f10",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
 			"SourcePackageName": "/Game/Geometry/Meshes/1M_Cube",
 			"CookedPackageName": "/Game/Geometry/Meshes/1M_Cube",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Geometry/Meshes/1M_Cube.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Geometry/Meshes/1M_Cube.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "108580302be2a19bc55a828521ac1d6c",
@@ -6224,7 +6260,7 @@
 			"CookedPackageName": "/Game/Geometry/Meshes/1M_Cube_Chamfer",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "d3893c5b2da5d70d29bdfad04574e529",
@@ -6242,7 +6278,7 @@
 			"CookedPackageName": "/Game/Geometry/Meshes/CubeMaterial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Geometry/Meshes/CubeMaterial.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Geometry/Meshes/CubeMaterial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "d2d589bd20a09505c0034ccf5239743e",
@@ -6261,7 +6297,7 @@
 			"CookedPackageName": "/Game/Geometry/Meshes/TemplateFloor",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Geometry/Meshes/TemplateFloor.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Geometry/Meshes/TemplateFloor.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "a3c1fde829a349ad5e7a26d529789ba8",
@@ -6275,11 +6311,2011 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "323598a2986ef805e355693a3e905245",
+			"FullPackageHash": "889c65bd3e3dad03e511b01244733099",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1cb93d655ee225d8e9a2504120f8539f",
+			"FullPackageHash": "f55743a72f4f80fdc6f38f02d20e780e",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Poison_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Poison_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Poison_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "bf18578a1ce4a940a9be6e091d986224",
+			"FullPackageHash": "fcfe1b1408d324008689cc91bf39aeb5",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Ausar_ShieldBlast_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Ausar_ShieldBlast_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Ausar_ShieldBlast_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "76f5888d56de7635e0db63d25e4b7ffb",
+			"FullPackageHash": "aaac2025ffad99c8f9ebff19fabf0ee4",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Env/M_Jagged_rock_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Env/M_Jagged_rock_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Env/M_Jagged_rock_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "fc107ba3c8ed7c27c2492a697d713e1c",
+			"FullPackageHash": "cff548b801191ca0e4340a1506134128",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Env/M_Jagged_Rock_01_Lit_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Env/M_Jagged_Rock_01_Lit_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Env/M_Jagged_Rock_01_Lit_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a6d4ccb5d27f3948dbd8e8c59637d29d",
+			"FullPackageHash": "ac1bdabe368b4c0bf19eda467379918e",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "8539b8ecf0aa07255952b33a0e1c1dd7",
+			"FullPackageHash": "3f1e15e60005f774f4ee2abbfb2ada90",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_02_Trans_Pan_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_02_Trans_Pan_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_02_Trans_Pan_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "12580692bf2a812d50e74a6f26bf850b",
+			"FullPackageHash": "4e65eeeffe66d606455d761098fc9e01",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1112f4f2823419db7af56ebe8dc99268",
+			"FullPackageHash": "5650a32110139094b2846f2856f42108",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fireball_03_4_4_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fireball_03_4_4_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fireball_03_4_4_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "adbc094ac52e9efa5af54f8918c90cd8",
+			"FullPackageHash": "a1428e87727127087b7609f9770a0792",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Opaque",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Opaque",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Opaque.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d91bd6caff239219a9d8b579bd934c93",
+			"FullPackageHash": "101c6bc9aa52ba74b370d1e6f8a47521",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Trans",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Trans",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Trans.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "0abad630984fe2b37eadccbb151adb5c",
+			"FullPackageHash": "93ee6dc1da533f2cfb431d10bd8b940e",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Ring_Quarter_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Ring_Quarter_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Ring_Quarter_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "dd15fbedeb72185f40c82f35a5f3fa61",
+			"FullPackageHash": "71b34b308555d43393e38782aa2933b1",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "f8b7a99bebb0a7ed2a7346789d28bf95",
+			"FullPackageHash": "02bda079337e2598bbe648c797eeb085",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_02_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_02_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_02_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "abe2e988bc90488242a1662578e8f1ef",
+			"FullPackageHash": "87ffbc1c3c9b1e43bd083aaac8349fab",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "702a77b0760f65ed3b6a37be505eb780",
+			"FullPackageHash": "a3d7ef66450e5e0bbdac040aef71c7d8",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_04_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_04_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_04_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "e583690866f318120d1eb17a3400b7c4",
+			"FullPackageHash": "67e4b2e4a283539361642f29feabb4a8",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "39eb7bec1ca1fec54d5f6654bb8a4e0e",
+			"FullPackageHash": "d38ee9fa9b9c05b290bd625b7a10b353",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Noise_01_Inst",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Noise_01_Inst",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Noise_01_Inst.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "5b41dce4c3bca3d75c287ad765a8b6f3",
+			"FullPackageHash": "3aa09049d881e94efebf3e5a2fc5e4ac",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_Trans_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_Trans_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_Trans_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "9a21b8b320273689082de11c86407ec2",
+			"FullPackageHash": "08c08328535fded83c7e8bf978a772e1",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_Ice_Solid_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_Ice_Solid_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_Ice_Solid_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "f393edbc6b9b9b8eb418ea2895670482",
+			"FullPackageHash": "4cf023cb3ea0e0ca0e79c37c45ae8cec",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_Snow_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_Snow_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_Snow_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "96bd9494a9eda3f380730ec9f28979dc",
+			"FullPackageHash": "ef67399ed4e2ab22158488d398b29435",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "108479dfd18aa1e5ca4e7e3de6fa277b",
+			"FullPackageHash": "163ec7a728c0d0524ed06437b96e4d74",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "b33d4227e24bfa87ac894b187e8096c8",
+			"FullPackageHash": "d2316f6ee3b7abb2fadaa2a179a4a0f2",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "22956ab35ff90e861b35636ff8e55b5a",
+			"FullPackageHash": "69f385ec3cec4d3af242fc68dc9b7a97",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_Master_MeshEmit",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_Master_MeshEmit",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_Master_MeshEmit.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d18e6cbbf49793d9b1065c409cc191c8",
+			"FullPackageHash": "a9a90d6767e4d1e7f8412f475744bb23",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d802d27d401e8854b6a8365f910e6e68",
+			"FullPackageHash": "e3e68f0d5d9e777d6c521a2bb3b2e164",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "4b9a4c1cb1b6f23d0385cbadf1ff3d75",
+			"FullPackageHash": "2cee6f77c9ce0f39fb1828460e0dd3ce",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "72c49ed11de1343c441a79fe04a48ba9",
+			"FullPackageHash": "7bd7bf3672430745bc392035423cd677",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "c950c952452f17e751d79a3b53c9bbab",
+			"FullPackageHash": "cb5e9f1767c216867469c4969c14e7fc",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_AuraCircle_02_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_AuraCircle_02_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Noise/M_AuraCircle_02_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "c3360ebf9a601452b4a54b9d23c49a18",
+			"FullPackageHash": "1f5fac8c33bd0fa2d56de30d4bf93513",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "bcb248acdbc4a4ca32ca9ac91cf6a3d1",
+			"FullPackageHash": "f5c76b2f3475059e6510438a01171c91",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "96209ba3ffccce8a8af98fa7a0c617f0",
+			"FullPackageHash": "46fcda0fd25850e1cfa3ca4dc7ba9371",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_04_SubUV_1_4_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_04_SubUV_1_4_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_04_SubUV_1_4_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "ddc0223484906750ead259d72db96d44",
+			"FullPackageHash": "8f1c580daa69e431e957ce8e3dfb4c95",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Swipe_Mesh_Add_2Sided_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Swipe_Mesh_Add_2Sided_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Swipe_Mesh_Add_2Sided_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "640f7598ec319e58345069f5c95f2e87",
+			"FullPackageHash": "543c24450cbb301a8472e3cb79247bb5",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a82e3e706371383467bb9ff658094b04",
+			"FullPackageHash": "1b00a8d72bb6cff4bc5a7f91e00e65b1",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/IB/SM_Debris_Box_RadialHalf",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/IB/SM_Debris_Box_RadialHalf",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/IB/SM_Debris_Box_RadialHalf.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1084a2d5127e698b12327dbc3d88acf7",
+			"FullPackageHash": "c1f558788605c2050a2faf7c37f56613",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceWall01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceWall01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/ICE/SM_IceWall01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "eb79adc3838be83d170eaec737904c68",
+			"FullPackageHash": "7e706b21fb14b9c55e8cb63a7ac9fef0",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Mobile/SM_ShieldEnemy2",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Mobile/SM_ShieldEnemy2",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/Mobile/SM_ShieldEnemy2.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "82077fd926c223c028cd0376625e79df",
+			"FullPackageHash": "ac2f335d3bb0d0360f88d19f3689b923",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/rock/SM_RockComet",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/rock/SM_RockComet",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/rock/SM_RockComet.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "29b162c8437dd2b2eee98881c93fc448",
+			"FullPackageHash": "9935ca39191cdd475c31ca20002e347f",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_AuraCircle",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_AuraCircle",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_AuraCircle.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "0b4e323c59d28dd2827578112763944d",
+			"FullPackageHash": "08d3c3281952e2f90874b1c5cb6a3616",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "626210be7a8c56b0cf0b2d085174dce8",
+			"FullPackageHash": "6adc2787c04e8d6fa11745ff28a7bcd0",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_CombatArea_Base",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_CombatArea_Base",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_CombatArea_Base.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "6280a29b7988adbb538b365dd87cadd8",
+			"FullPackageHash": "c4d94609a4e0d2e3fd5edb73a9757976",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a383f630033988e01cb536651abaa9ea",
+			"FullPackageHash": "614de73c14b4b958d820a0cbe8f8ae2b",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_ShockCylinder_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_ShockCylinder_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_ShockCylinder_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "6f74a8f64f2338fbd5a81ac2eb80952b",
+			"FullPackageHash": "ce3ec6daed7b5992f3c3d16622f7f2ee",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_SpinSpiral",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_SpinSpiral",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_SpinSpiral.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "cfdbfeac60ca3489ba469e6973d37b96",
+			"FullPackageHash": "fc302e886536f887da4e25fb70a268db",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_SwipeTrail",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_SwipeTrail",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_SwipeTrail.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "34982b7b51fdd24b3aa336fa98ff57f9",
+			"FullPackageHash": "a06b069c1dc02500c792265784364e52",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleAttack",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleAttack",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleAttack.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a35207de430693e9eccb2596e939928a",
+			"FullPackageHash": "8ed70b8d9c689fa779d2dd58cc7e2290",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AuraCircle_Fire_02",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AuraCircle_Fire_02",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AuraCircle_Fire_02.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "0499719bd2509e032ef662124c04e11c",
+			"FullPackageHash": "7bcc720422c92d2b2afbb9d449109f58",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_DmgField_Fire_Activate_02_Burst",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_DmgField_Fire_Activate_02_Burst",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_DmgField_Fire_Activate_02_Burst.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "b2a6b25229568860474a1750df2e211a",
+			"FullPackageHash": "4d76aaaed61f10e040e6d7d3948235e3",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_FireBall_Powerup_Charge",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_FireBall_Powerup_Charge",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_FireBall_Powerup_Charge.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d6bbf9bc03bcfb5bbed3dfe2cb372136",
+			"FullPackageHash": "204da30cbd5d6e2e8ed1296ebc1bd3d4",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/M_Fireball_01_8X8_INST",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/M_Fireball_01_8X8_INST",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Mobile/Fire/M_Fireball_01_8X8_INST.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "204b360c85c1299f31e1d506a7029ae9",
+			"FullPackageHash": "6b02e57d9dcd2f91f38740124e8ec59a",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/ICE/combat/P_AOE_Ice_CircleAttack",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/ICE/combat/P_AOE_Ice_CircleAttack",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Mobile/ICE/combat/P_AOE_Ice_CircleAttack.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "2270a374fd3166a688ec1d99944dee0a",
+			"FullPackageHash": "7314d7a5e733c2dd9bdf52cd2387e021",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/ICE/combat/P_AuraCircle_Ice_02",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Mobile/ICE/combat/P_AuraCircle_Ice_02",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Mobile/ICE/combat/P_AuraCircle_Ice_02.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "aa64a1e2879f84c9eac0b0abe6a8a94a",
+			"FullPackageHash": "a03c86754d700f08568cad4dc7d13fd8",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Ausar/P_AU_ShieldSlam_AOE",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Ausar/P_AU_ShieldSlam_AOE",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Ausar/P_AU_ShieldSlam_AOE.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "fec8b00a09280ba4c2721758f651c18d",
+			"FullPackageHash": "9f8de904093096fd71154b9c0939ec74",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Ausar/P_AU_Sword_Proj_Trail_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Ausar/P_AU_Sword_Proj_Trail_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Ausar/P_AU_Sword_Proj_Trail_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "cd2a18d6b9edce8e57383e8428ae8837",
+			"FullPackageHash": "78a608d513c9f97cd834b51b5ef25b03",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_FrostGiant/ICE/P_ArmBuildUp01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_FrostGiant/ICE/P_ArmBuildUp01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_FrostGiant/ICE/P_ArmBuildUp01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "6a0d22db271c394fa0fe5d590d80a19d",
+			"FullPackageHash": "1a51808f7a47aef169e7d145ca46c310",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Skill_Aura/P_Aura_Ice_Shatter_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Skill_Aura/P_Aura_Ice_Shatter_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Skill_Aura/P_Aura_Ice_Shatter_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "2b761b7d53bdffe78c1936da0b16a69e",
+			"FullPackageHash": "9c9740768791298aaa8442eb5d909c73",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Skill_Aura/P_Aura_Poison_Shatter_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Skill_Aura/P_Aura_Poison_Shatter_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Skill_Aura/P_Aura_Poison_Shatter_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "24ceef7b6b808fd38a163ada592b5313",
+			"FullPackageHash": "865efb049780f21149285459953ede7f",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a1313de7d7fcd0f010c89d6dbb4b1a03",
+			"FullPackageHash": "282e5087795f57ded660485166a21031",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "c91ea10df8d6828a5d8b1c7ab5811b19",
+			"FullPackageHash": "26fb750959a1eb29bc86a5d5fed75d2c",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksIcey_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksIcey_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksIcey_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "9a5b4f260665bcd8b8a4c7f2f1b1a477",
+			"FullPackageHash": "968ef41943f26ad50451780063939f4e",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksPoison_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksPoison_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksPoison_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "46d416ef658c05f42cb56607819aef0e",
+			"FullPackageHash": "75956d70f8119e335aec340f876d8878",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "742a30af621cb4875488e63bb9a496bf",
+			"FullPackageHash": "787a3c829ddb975baaacbfe4ffbd47e8",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fireball_02_SubUV_4_4",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fireball_02_SubUV_4_4",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fireball_02_SubUV_4_4.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "fc94ea07d9f281556284c565a6d0d123",
+			"FullPackageHash": "de69719a5c180083a5d3a3f6353ccc6b",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "88a9c95f07f812e6e38e3862d725d13d",
+			"FullPackageHash": "ea63dfa77ed5342fc1f1a2ab54e15308",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireTrail",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireTrail",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireTrail.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "7493d0fb99352f5216ff50830ed3e4a9",
+			"FullPackageHash": "50238286c954fb5ca7295ef48d5cde3e",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/FX_Glow_12alpha",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/FX_Glow_12alpha",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/FX_Glow_12alpha.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "34b3fa8b3eb3a36cfd8d0c0cec916f6f",
+			"FullPackageHash": "8148832306aa018844cd1ab3eaaed990",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_AuraCircle_TileHoriz",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_AuraCircle_TileHoriz",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_AuraCircle_TileHoriz.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "f3fa6e97100b4d6b1bcf1e2459b41ebf",
+			"FullPackageHash": "91e087388d8431947035115fc9b24b23",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_BlastWave",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_BlastWave",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_BlastWave.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "e8168c7754288bcc690d9d41af51b1e3",
+			"FullPackageHash": "eda924609ceb1303a29089143db2a5da",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "97b4fd6dce78b1a4bda0092776c306c5",
+			"FullPackageHash": "0eea6cc19aa88218cd2035a85026dd6a",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_Circular_02",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_Circular_02",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_Circular_02.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "8cb7f4d64e84c4e6c982eb9ea95cc10f",
+			"FullPackageHash": "4a7b719fb3bbbc03ffe454b394485e0e",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d44abb49d84fe3b29bd3d6eaf82deb75",
+			"FullPackageHash": "0c6b022d4801c72e81fc415ddd5c2fad",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "e3be00a7317ebf6cf74f649cd62564f1",
+			"FullPackageHash": "97c0a286673df6ab817f7c452943b397",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "61efe7f1a3cc4d6c97b0db950b11401c",
+			"FullPackageHash": "51ccfda647e662a81a6a74daad295a36",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d878075eca43c96004aab0e08322c435",
+			"FullPackageHash": "d35dd8e02ca7c728448a6ef92e6d2463",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d60188ea89481ed9e93c694455856dbc",
+			"FullPackageHash": "b10be43b137edea4ef307b121866b766",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_Trail_Ice_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_Trail_Ice_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_Trail_Ice_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a0f10e674d399f877ce396967a10b515",
+			"FullPackageHash": "4813612a2c0b27a47f4cc528476ad0f6",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_Vertical_Glow",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_Vertical_Glow",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_Vertical_Glow.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "43d270795714cba8be2a93e26dad8358",
+			"FullPackageHash": "8632510e0e362ea768b30a9e66165017",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Ice/T_Sparkle_Flakes",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Ice/T_Sparkle_Flakes",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Ice/T_Sparkle_Flakes.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "8258dc8b112a263f0cd111158682d48b",
+			"FullPackageHash": "2d28d4c93de79af07d677883bfd1afce",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Liquid/T_bloodTest_4X6",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Liquid/T_bloodTest_4X6",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Liquid/T_bloodTest_4X6.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d0e122c1dfb3a12b1894b8b51b13380d",
+			"FullPackageHash": "28d1d175e380ddf9f4b3c388e63eef46",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Noise/T_Tile_Noise_Tendril_01",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Noise/T_Tile_Noise_Tendril_01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Noise/T_Tile_Noise_Tendril_01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "01d06e06c574d4100ca7a2847a92468f",
+			"FullPackageHash": "651508553e17ab9494c9d60c4385cf86",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "934d24add35b479a2a2df788dd09cfb7",
+			"FullPackageHash": "f2a1f54891ad2756fffb3eeb09bd0bde",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "947c4a1bfbe631a6c726e195a6deec7c",
+			"FullPackageHash": "df5b64592e452e93a8942b90f7c21287",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_04_SubUV_1_4",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_04_SubUV_1_4",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_04_SubUV_1_4.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "dd058b89e26f91304f1da3982f187343",
+			"FullPackageHash": "62a2c1a044d3a798b2218f9b9def24e0",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Texture/T_FireBall_01B_8_8",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Texture/T_FireBall_01B_8_8",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Texture/T_FireBall_01B_8_8.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "00e93606b65adb219c209cc47a79678e",
+			"FullPackageHash": "dc58f591e2c4cda3a73ed88e75773f2d",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Texture/T_Ice_Mesh02b",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Texture/T_Ice_Mesh02b",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Texture/T_Ice_Mesh02b.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "3aedbee9b8a3e81601c500342ccc139b",
+			"FullPackageHash": "87482bfd93eb199b17098adca185fd96",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "28307db7ff90a499fb02d074e50791e7",
+			"FullPackageHash": "71f64239a85041478d70551243131918",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Tile/T_CombatArea_Arc",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures/Tile/T_CombatArea_Arc",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_CombatArea_Arc.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "4c6be5497c3b4f0ce859d2eaa731e01c",
+			"FullPackageHash": "9248a11bfdbcfb4d32e5f53eb31c0467",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures_IB/Glyph/T_IB_Debris_Box",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures_IB/Glyph/T_IB_Debris_Box",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures_IB/Glyph/T_IB_Debris_Box.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "27b08f0313ea72212b936324b55d326f",
+			"FullPackageHash": "69f754a7244bd4a9a794bcdf62b9ba13",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures_IB/Glyph/T_IB_Debris_Box_E",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/FX_Textures_IB/Glyph/T_IB_Debris_Box_E",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/FX_Textures_IB/Glyph/T_IB_Debris_Box_E.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "5bdcb56a5163d2cd985653e84a8e2f08",
+			"FullPackageHash": "a6c61f02f69ae6614b4f92ddfe55542e",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Emis_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Emis_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Emis_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "c160f7d429a8b7d03721a1540fa95726",
+			"FullPackageHash": "a665122b2f48e85c995d812fca2465bf",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "eff96c648731f74291c703be578640c3",
+			"FullPackageHash": "cf70b90b32e56da20aa0a879775d5b00",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "bb8b926bb6d5fb7d4e9d6c66ceb6bfb2",
+			"FullPackageHash": "9598a650a47df219dd3f93068342d111",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "b33e9fd610a55b9e2e5067739c8814d5",
+			"FullPackageHash": "fa8b6232ee1e1390950db894f652d255",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "895791f923a8459983ffc0ed34fd1813",
+			"FullPackageHash": "44091b0894b7186aec0a75cf12d67253",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "8b7bd5fba75d8b48013a0990d9306c90",
+			"FullPackageHash": "fe87acafc962092cd08302540df51131",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "d9c967fd174a6572b04f33ec9c2d49c7",
+			"FullPackageHash": "c3a1a67ecc1a1ce3c1df3cb4d44e5a53",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Lit_Emis_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Lit_Emis_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Lit_Emis_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "c25b4b4e3b42e589a5018d4871edff16",
+			"FullPackageHash": "4450ede0d9d57257cd32fad0eea998b5",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "51c0f0c09fc912d2ac909f639ff02562",
+			"FullPackageHash": "241247855ad6730050ae3e38fdd7a55f",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "fc1833baf1401157532b740652a64db8",
+			"FullPackageHash": "f2c934527881dee28390d55a235b619c",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "4e653a5a1c49aa5138d80da90b7f683f",
+			"FullPackageHash": "fe4e495c3607f7bf4a0627b0a8032561",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "2336c4612c2c79ac2ebe92af82813a24",
+			"FullPackageHash": "0d4e6d7f6edee6e01e881430161921f9",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "8c9f7d8a37aecdd2ba8118d38e874569",
+			"FullPackageHash": "a6c69bf0f3d72ead304b628a05b99e64",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a658e6c0091e7e3d633c2ce810fe8529",
+			"FullPackageHash": "409a94c62803e0193671ddee6d1e215d",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "3a0f65b121c647adb77c20a4cc89d715",
+			"FullPackageHash": "dec8a077a61cd8ed6f16d5179db08298",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Breakables_Box1_D",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Breakables_Box1_D",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Breakables_Box1_D.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "328578f3db89a3962f99846cb09858a2",
+			"FullPackageHash": "1a233e2bffe8648a9bf44e412c6d3529",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Breakables_Breakables_D",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Breakables_Breakables_D",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Breakables_Breakables_D.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "8b4bdbfe0f971e001c4501b205e79f5d",
+			"FullPackageHash": "b43d08fefb6903a28c9c3843c17fcf22",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Fire_deco_Pots_N",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Fire_deco_Pots_N",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Fire_deco_Pots_N.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "37d08faabacc8e6bf6439f8ddf26c8ee",
+			"FullPackageHash": "8303a3002a4bb180d15c9784364ed33a",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Fire_deco_pots_Red_D",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Fire_deco_pots_Red_D",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Environments/Breakables/Textures/T_Env_Fire_deco_pots_Red_D.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "9feb38f46af56af90fdf1f19ad287fc7",
+			"FullPackageHash": "48608e283b53ce2f3a69a803951a609c",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Environments/Env_Rocks/Textures/T_JaggedRock_01_D",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Environments/Env_Rocks/Textures/T_JaggedRock_01_D",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Environments/Env_Rocks/Textures/T_JaggedRock_01_D.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "720825139fbecc6037403d4743d3db17",
+			"FullPackageHash": "838c887339fbb134a108b7fdc0c629bc",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/InfinityBladeEffects/Environments/Env_Rocks/Textures/T_JaggedRock_D_02",
+			"CookedPackageName": "/Game/InfinityBladeEffects/Environments/Env_Rocks/Textures/T_JaggedRock_D_02",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/InfinityBladeEffects/Environments/Env_Rocks/Textures/T_JaggedRock_D_02.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "2eb331a5d8c4a9b524c1b523b94d3385",
+			"FullPackageHash": "08b9b882b87f50d9e33744b64adb1555",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Game/Mannequin/Animations/ThirdPerson_AnimBP",
 			"CookedPackageName": "/Game/Mannequin/Animations/ThirdPerson_AnimBP",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "f03291fe7e1cf82567afcc6f75c640b7",
@@ -6301,7 +8337,7 @@
 			"CookedPackageName": "/Game/Mannequin/Animations/ThirdPerson_IdleRun_2D",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "8a414d9106114b7205340eb816711144",
@@ -6319,7 +8355,7 @@
 			"CookedPackageName": "/Game/Mannequin/Animations/ThirdPerson_Jump",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Animations/ThirdPerson_Jump.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Animations/ThirdPerson_Jump.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "bedd73975201561c41dacdf1a28c6bac",
@@ -6337,7 +8373,7 @@
 			"CookedPackageName": "/Game/Mannequin/Animations/ThirdPersonIdle",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Animations/ThirdPersonIdle.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Animations/ThirdPersonIdle.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "1dd118c7c1595a71d0db0a0b1d7fe25a",
@@ -6355,7 +8391,7 @@
 			"CookedPackageName": "/Game/Mannequin/Animations/ThirdPersonJump_Loop",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "8988a71b3b6312f4169c0b6600a5cce9",
@@ -6373,7 +8409,7 @@
 			"CookedPackageName": "/Game/Mannequin/Animations/ThirdPersonJump_Start",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "3acdd5ba3f585fa15266ebf94deb24b2",
@@ -6391,7 +8427,7 @@
 			"CookedPackageName": "/Game/Mannequin/Animations/ThirdPersonRun",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Animations/ThirdPersonRun.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Animations/ThirdPersonRun.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "d7adf79d47815834a05de31ed0eedae0",
@@ -6409,7 +8445,7 @@
 			"CookedPackageName": "/Game/Mannequin/Animations/ThirdPersonWalk",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Animations/ThirdPersonWalk.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Animations/ThirdPersonWalk.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "5e7c139e9bf0145dfe31b636ede48f8b",
@@ -6427,7 +8463,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/M_UE4Man_Body",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "daab5771047c316a0ef1b73f651e6863",
@@ -6446,7 +8482,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "4f0258067569d3b09db4a3c85f7e66b0",
@@ -6465,7 +8501,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "46dec7032756d7148e0d878bd985cc6d",
@@ -6483,7 +8519,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "cf1b12e2d38095ad41f354c764e44a57",
@@ -6501,7 +8537,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "50f871924539c8010739f7dbf6e1a3db",
@@ -6519,7 +8555,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "32992c9e5ef18d2779ee8c5384ae41f5",
@@ -6537,7 +8573,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "0798e8b76d2ad9707ac2b3a22a5b339b",
@@ -6554,7 +8590,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "2bad53a02405700b69674b3a207c604f",
@@ -6571,7 +8607,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "7985038a3439c37cc94a5262bb411de9",
@@ -6588,7 +8624,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "51b97cefdf4186e4682ef35a269e38fa",
@@ -6605,7 +8641,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Mesh/SK_Mannequin",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "e31038f8e4265cca79904a42878dfdf0",
@@ -6623,7 +8659,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "f7f288cc3bdc00bfdeaa166388234363",
@@ -6640,7 +8676,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "5e25264c26f99d2d50d05520fcfdc773",
@@ -6657,7 +8693,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Textures/UE4_LOGO_CARD",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "74671ec3fa3105341e7cf41088f5e367",
@@ -6674,7 +8710,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Textures/UE4_Mannequin__normals",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "8119f9f3abde96783f377a9ee9d6edce",
@@ -6691,7 +8727,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "f9f2d5e5339ffbccc89d9acf93b59b68",
@@ -6708,7 +8744,7 @@
 			"CookedPackageName": "/Game/Mannequin/Character/Textures/UE4Man_Logo_N",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "5f6d263323ee26148e6f0f34a70ef4a5",
@@ -6721,74 +8757,18 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/Maps/NewMap",
-			"CookedPackageName": "/Game/Maps/NewMap",
+			"SourcePackageName": "/Game/P_Cube_Mesh_Test",
+			"CookedPackageName": "/Game/P_Cube_Mesh_Test",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/Maps/NewMap.umap",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/P_Cube_Mesh_Test.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "855a1e9507f23cf3bad6f591b1df3ed5",
-			"FullPackageHash": "5bb87d4e2d80f3a39b7181b367019d59",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/Foliage",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Collapse01",
-			"CookedPackageName": "/Game/StarterContent/Audio/Collapse01",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Collapse01.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "dd28edf127d0b8e7ff2913ac6562e57a",
-			"FullPackageHash": "8eb2b75f099eb67dc79e26c0e931aa42",
+			"DependentPackageHash": "5a0e6d1c72b9a2e1c08770ff201e8b1c",
+			"FullPackageHash": "f3b71bdcb83a70759097b8fcf4d0c7bc",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Collapse02",
-			"CookedPackageName": "/Game/StarterContent/Audio/Collapse02",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Collapse02.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "18f6c9e7a703a7fb04c83045fb9600da",
-			"FullPackageHash": "779e65a8d122382c2ae2571d8d45ca26",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Collapse_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Collapse_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Collapse_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "03857b31d2aa7522b812569a83dcf846",
-			"FullPackageHash": "14bc7ac87811f7f536ff822c36a7fe1d",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
@@ -6798,7 +8778,7 @@
 			"CookedPackageName": "/Game/StarterContent/Audio/Explosion01",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Explosion01.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Audio/Explosion01.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "c5805fab284f82f1fa4faad55dd319ee",
@@ -6811,369 +8791,11 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Explosion02",
-			"CookedPackageName": "/Game/StarterContent/Audio/Explosion02",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Explosion02.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "95ac1173704938662a9a03c4c963e6a0",
-			"FullPackageHash": "1b118d094fffc32fea9561b0219f3734",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Explosion_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Explosion_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Explosion_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "f24f24650288bc4c2ce82cd4ae71b297",
-			"FullPackageHash": "f35c9b2aef295395ede3878d4a9ff1a2",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Fire01",
-			"CookedPackageName": "/Game/StarterContent/Audio/Fire01",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Fire01.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "3001834323de0df9173a865f4cce7fa0",
-			"FullPackageHash": "6190a5feb14fb4b6c753cc239e2d4f7b",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Fire01_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Fire01_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Fire01_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "98a46d25d8300d6c89d9e0fe4a14ed2e",
-			"FullPackageHash": "39ad608adb8de374144b894b47d3ff4f",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Fire_Sparks01",
-			"CookedPackageName": "/Game/StarterContent/Audio/Fire_Sparks01",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Fire_Sparks01.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "866321284036c1cb4f05b0f359067b5d",
-			"FullPackageHash": "a5f30145af7db4d943aa33011c6d3b96",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Fire_Sparks01_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Fire_Sparks01_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "c1ec8ce1f84b5c52c0134759974f082d",
-			"FullPackageHash": "f401626733271c2421df36953d84113d",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Light01",
-			"CookedPackageName": "/Game/StarterContent/Audio/Light01",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Light01.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "7eb2a4684d0684d2841005b2583638c6",
-			"FullPackageHash": "f431de30d6c7f5bc4f1c40bae5394ede",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Light01_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Light01_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Light01_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "2819c7f9607511eeed495a01c7102b23",
-			"FullPackageHash": "68aa2dd2557ad9996129570b6ff5824a",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Light02",
-			"CookedPackageName": "/Game/StarterContent/Audio/Light02",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Light02.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "a92b57c57c47896fcb4fe3f94220900d",
-			"FullPackageHash": "d152403887a8e2257531572e9bb18fa7",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Light02_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Light02_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Light02_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "0809aa6785f36b685869cdca8cfdca5a",
-			"FullPackageHash": "7db44e7204298758db3047f6768f1561",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Smoke01",
-			"CookedPackageName": "/Game/StarterContent/Audio/Smoke01",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Smoke01.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "8155565f210a8a19bdf9cb5a2251b04b",
-			"FullPackageHash": "976e02803d7c2faf418385f1c927c96d",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Smoke01_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Smoke01_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Smoke01_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "c151adf13ffc0d311897170d9d1c0e92",
-			"FullPackageHash": "b413b33df28773fb48f603879bdf9935",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Starter_Background_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Starter_Background_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Starter_Background_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "fb6218c2100772eb13fff7fee55b2b87",
-			"FullPackageHash": "68cad5eb521e56e47996e3000039a683",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Starter_Birds01",
-			"CookedPackageName": "/Game/StarterContent/Audio/Starter_Birds01",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Starter_Birds01.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "48a884f52440348d3313dddb96fbe178",
-			"FullPackageHash": "12a810b3dc817c202bbe2bbdbf690068",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Starter_Music01",
-			"CookedPackageName": "/Game/StarterContent/Audio/Starter_Music01",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Starter_Music01.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "3cde6392aef2904e6ac31e478554834c",
-			"FullPackageHash": "533c8206f3e87eac0dff1a6b8df69c5a",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Starter_Music_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Starter_Music_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Starter_Music_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "c42dcf019638e5a0cbadf9cb16a1f30f",
-			"FullPackageHash": "771065f6bcc889e5c5e8b914c23eeab3",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Starter_Wind05",
-			"CookedPackageName": "/Game/StarterContent/Audio/Starter_Wind05",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Starter_Wind05.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "d2992f08afc303adca82ba9ecf79def3",
-			"FullPackageHash": "b6bdd1fcd56d89c0fa9459c5a0ad137c",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Starter_Wind06",
-			"CookedPackageName": "/Game/StarterContent/Audio/Starter_Wind06",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Starter_Wind06.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "e50221e7ce552e58ce242368b5e7e058",
-			"FullPackageHash": "342fca9ba902769bcc3d506e908edfa6",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Steam01",
-			"CookedPackageName": "/Game/StarterContent/Audio/Steam01",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Steam01.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "1440fb4236b28d9036709d7ccbd4f325",
-			"FullPackageHash": "c413ff5c90ebb98dc89a105bfb8e0496",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Audio/Steam01_Cue",
-			"CookedPackageName": "/Game/StarterContent/Audio/Steam01_Cue",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Audio/Steam01_Cue.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "f74e8034ebe99d20534bc3866660ed5e",
-			"FullPackageHash": "6fb2407035e08118325a493d9ba9ca15",
-			"DependencyData": [
-				"/Script/AudioEditor",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
 			"SourcePackageName": "/Game/StarterContent/Materials/M_Basic_Wall",
 			"CookedPackageName": "/Game/StarterContent/Materials/M_Basic_Wall",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Materials/M_Basic_Wall.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "3b5f8f580b35161945bac85d5b7b91c8",
@@ -7192,7 +8814,7 @@
 			"CookedPackageName": "/Game/StarterContent/Materials/M_Brick_Clay_Old",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "fde6c2f8d074804f4b1cc1588473b321",
@@ -7211,7 +8833,7 @@
 			"CookedPackageName": "/Game/StarterContent/Materials/M_Metal_Gold",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Materials/M_Metal_Gold.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Materials/M_Metal_Gold.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "c63472243465dd8d392a41212790d355",
@@ -7226,17 +8848,16 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/StarterContent/Materials/M_Water_Ocean",
-			"CookedPackageName": "/Game/StarterContent/Materials/M_Water_Ocean",
+			"SourcePackageName": "/Game/StarterContent/Shapes/Shape_Plane",
+			"CookedPackageName": "/Game/StarterContent/Shapes/Shape_Plane",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Materials/M_Water_Ocean.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Shapes/Shape_Plane.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "375b0db33e1de050e19c592f79611054",
-			"FullPackageHash": "af73734d51667628fa75f8e286c92bb2",
+			"DependentPackageHash": "a4e82d1d6a7bfbdcee46fe6c0bce7143",
+			"FullPackageHash": "7ee96911878bdc95d657eec173e96fd9",
 			"DependencyData": [
-				"*** SHADERSOURCE ***",
 				"/Script/CoreUObject",
 				"/Script/Engine",
 				"/Script/UnrealEd"
@@ -7249,7 +8870,7 @@
 			"CookedPackageName": "/Game/StarterContent/Shapes/Shape_Torus",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Shapes/Shape_Torus.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Shapes/Shape_Torus.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "287747418f71c9e9df76cea3e41901f9",
@@ -7267,7 +8888,7 @@
 			"CookedPackageName": "/Game/StarterContent/Textures/T_Brick_Clay_Old_D",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "905659f8d51785bd378c2af04335e526",
@@ -7284,7 +8905,7 @@
 			"CookedPackageName": "/Game/StarterContent/Textures/T_Brick_Clay_Old_N",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "4a86ebf13e6751590c0e3936b3c55ef9",
@@ -7301,7 +8922,7 @@
 			"CookedPackageName": "/Game/StarterContent/Textures/T_MacroVariation",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Textures/T_MacroVariation.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Textures/T_MacroVariation.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "fc5bf885363e6f6e3b9a68a60496437c",
@@ -7318,7 +8939,7 @@
 			"CookedPackageName": "/Game/StarterContent/Textures/T_Metal_Gold_D",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Textures/T_Metal_Gold_D.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Textures/T_Metal_Gold_D.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "ad5c418edb21baeb67ea8f2647dc4fd2",
@@ -7335,7 +8956,7 @@
 			"CookedPackageName": "/Game/StarterContent/Textures/T_Metal_Gold_N",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Textures/T_Metal_Gold_N.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Textures/T_Metal_Gold_N.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "d89c697533ca80520f7b9740d043698a",
@@ -7352,7 +8973,7 @@
 			"CookedPackageName": "/Game/StarterContent/Textures/T_Perlin_Noise_M",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "8d8e30a4c9fb04f0938ff590a45efc39",
@@ -7365,45 +8986,11 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/StarterContent/Textures/T_Water_M",
-			"CookedPackageName": "/Game/StarterContent/Textures/T_Water_M",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Textures/T_Water_M.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "7a77133c25ea8de7358a2ad900b3d1fd",
-			"FullPackageHash": "875671a13ff2c4e400a11a22907af795",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Textures/T_Water_N",
-			"CookedPackageName": "/Game/StarterContent/Textures/T_Water_N",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/StarterContent/Textures/T_Water_N.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "b112849d902a6f0e9f1b1a1081b3f598",
-			"FullPackageHash": "595a8716112de4df4bf70c13bcb17876",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
 			"SourcePackageName": "/Game/ThirdPerson/Meshes/Bump_StaticMesh",
 			"CookedPackageName": "/Game/ThirdPerson/Meshes/Bump_StaticMesh",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "f33655b2852059c93559c1c30db3ca92",
@@ -7421,7 +9008,7 @@
 			"CookedPackageName": "/Game/ThirdPerson/Meshes/LeftArm_StaticMesh",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "0c35fe523546172fac0acea61006f5ce",
@@ -7439,7 +9026,7 @@
 			"CookedPackageName": "/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "b0eb817c48b73bed8f268d91600878f7",
@@ -7457,7 +9044,7 @@
 			"CookedPackageName": "/Game/ThirdPerson/Meshes/Ramp_StaticMesh",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "b117536850604b71c7e5353e461696ac",
@@ -7475,7 +9062,7 @@
 			"CookedPackageName": "/Game/ThirdPerson/Meshes/RampMaterial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPerson/Meshes/RampMaterial.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPerson/Meshes/RampMaterial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "a893b0a5fdbcf5aef7af9b858754c6b0",
@@ -7494,7 +9081,7 @@
 			"CookedPackageName": "/Game/ThirdPerson/Meshes/RightArm_StaticMesh",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
 			"DependentPackageHash": "77bd981fa6ce50a063f8f2e808a0664a",
@@ -7508,75 +9095,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/ThirdPersonBP/Blueprints/BP_FloorTile",
-			"CookedPackageName": "/Game/ThirdPersonBP/Blueprints/BP_FloorTile",
+			"SourcePackageName": "/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter",
+			"CookedPackageName": "/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "95dce3a8cbc45cb815b0845eba2c73d9",
-			"FullPackageHash": "61f09c5d585ddf2e506e5c277ec914c1",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/ThirdPersonBP/Blueprints/BP_Item",
-			"CookedPackageName": "/Game/ThirdPersonBP/Blueprints/BP_Item",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPersonBP/Blueprints/BP_Item.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "c0e7f569efa0bf5e000d240b498f3ac4",
-			"FullPackageHash": "bd70c35ca8ac265e23ee445f81171eff",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/ThirdPersonBP/Blueprints/RunGameMode",
-			"CookedPackageName": "/Game/ThirdPersonBP/Blueprints/RunGameMode",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "a3908745178ba49f40e06b05086dc15d",
-			"FullPackageHash": "6b2ba47578b37e0f14c50ecc1774292e",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/ThirdPersonBP/Blueprints/RunnerChar",
-			"CookedPackageName": "/Game/ThirdPersonBP/Blueprints/RunnerChar",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPersonBP/Blueprints/RunnerChar.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "72de7ca8a1c0b360098c3c953f8e3338",
-			"FullPackageHash": "93dc123f0f2667bc3475477059ada39e",
+			"DependentPackageHash": "b0e86b29c33e3d37035ce57379ae40de",
+			"FullPackageHash": "3c5daf30495d3bb847041383ee1efa51",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -7589,15 +9116,35 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode",
+			"CookedPackageName": "/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "2d791af9bb3e7bfddad06d6136370d4c",
+			"FullPackageHash": "d33110b9f0091cdd602a5b258ad66695",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap",
 			"CookedPackageName": "/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "474f0b5d22c0f53ab3efc04aeea30ff1",
-			"FullPackageHash": "092289c976a9250eb327be69dc55f9c1",
+			"DependentPackageHash": "7705fe0f1af362e5d6d649394d946951",
+			"FullPackageHash": "0759ea2918f76744268c0372b76b7c05",
 			"DependencyData": [
 				"*** SHADERSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -7613,14 +9160,271 @@
 			"CookedPackageName": "/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/새 폴더/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "e9f4d732216e03b37f30b6803060dbe7",
-			"FullPackageHash": "1e79d6346126f8dfb136099a2fb99608",
+			"DependentPackageHash": "c6e631471dffea0effb8ce3f936bbea5",
+			"FullPackageHash": "ddbc0af5dcec80b2ca230d0b3b68a474",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/BP_FloorTile",
+			"CookedPackageName": "/Game/형주/BP_FloorTile",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/BP_FloorTile.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "89638745b7dc30fe4770de44dba7571e",
+			"FullPackageHash": "8251bb2ff25ce2e8ebae58e63ac3d5c0",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/BP_Item",
+			"CookedPackageName": "/Game/형주/BP_Item",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/BP_Item.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "86559693f6c220d99f10175b6b1f02f9",
+			"FullPackageHash": "5ea00f554071dccfe96e317438a8591c",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/BP_Skill",
+			"CookedPackageName": "/Game/형주/BP_Skill",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/BP_Skill.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "7f370e255d188f93dc42bc6a0732c5c0",
+			"FullPackageHash": "14631e6997ecdd41b765d6f96d267c78",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/Effect/P_Shield_Sphere_Buff",
+			"CookedPackageName": "/Game/형주/Effect/P_Shield_Sphere_Buff",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/Effect/P_Shield_Sphere_Buff.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "fa3c02501858b73e011affbc31ece61f",
+			"FullPackageHash": "d80003fa8c82f43d952b3be02d76a23c",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/EffectItemPickUp",
+			"CookedPackageName": "/Game/형주/EffectItemPickUp",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/EffectItemPickUp.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "58f13528a5553e609c54605bdad66c06",
+			"FullPackageHash": "e4c19e082e5a4762bc9db7fc7d97ecfd",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/M_GhostDash",
+			"CookedPackageName": "/Game/형주/M_GhostDash",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/M_GhostDash.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "71a90ae68c8c3e7d25b9287726d6f641",
+			"FullPackageHash": "cd040b46dad11da28943e278ed20c7f0",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/NewMap",
+			"CookedPackageName": "/Game/형주/NewMap",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/NewMap.umap",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "475622fbf855d6837775284f136e6b5f",
+			"FullPackageHash": "04dd32c9964459486501c0d3798b7e2f",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/Foliage",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/NewMap_BuiltData",
+			"CookedPackageName": "/Game/형주/NewMap_BuiltData",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/NewMap_BuiltData.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "05ef050370180875942f1aa62141f3c4",
+			"FullPackageHash": "514806ab3b694df986a1ded9597eea1f",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/RunGameMode",
+			"CookedPackageName": "/Game/형주/RunGameMode",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/RunGameMode.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "2e800443545d6fd0a194ac75ecd2ff9b",
+			"FullPackageHash": "98c4f6c2084892dcc4b5b7d4e821ece5",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UMG",
+				"/Script/UMGEditor",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/RunHUD",
+			"CookedPackageName": "/Game/형주/RunHUD",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/RunHUD.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "ed0249ca0ca13e708d2bc4c64cdffe0f",
+			"FullPackageHash": "9539a19cc2e0625e3254f36e2d36f383",
+			"DependencyData": [
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/MovieScene",
+				"/Script/SlateCore",
+				"/Script/UMG",
+				"/Script/UMGEditor"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/형주/RunnerChar",
+			"CookedPackageName": "/Game/형주/RunnerChar",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "C:/Users/400T6B/Desktop/fleeKaHJ/LHJ/Content/형주/RunnerChar.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "e9a89b4af5867dd7c3793ea500fcbb90",
+			"FullPackageHash": "970d14c28c17da32df4b7a488b3c3aa1",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/InputCore",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/Basics/LevelEditorOverview",
+			"CookedPackageName": "/Engine/Tutorial/Basics/LevelEditorOverview",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "241e9fdf0df9eeb40b0520558fc26e1a",
+			"FullPackageHash": "096771230279b10d9c4d4e7b17d665a8",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/Basics/LevelEditorAttract",
+			"CookedPackageName": "/Engine/Tutorial/Basics/LevelEditorAttract",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "b14b9ec5b019094cf415e76312e7e079",
+			"FullPackageHash": "6cce638b46ac228277e18622b5dc1c89",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
@@ -7668,78 +9472,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview",
-			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview",
+			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview",
+			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "47c1ca339a1fb7bb4343ad9e4bd5425f",
-			"FullPackageHash": "a02d2d505742df139c0086138b1982a3",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/Paper2D/FlipbookEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/Paper2D/FlipbookEditorTutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "e6746ee2173a0661a5d006fe8198de21",
-			"FullPackageHash": "8ec82900440995dd1a5d487a212d9d97",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/SubEditors/DestructibleMeshEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/SubEditors/DestructibleMeshEditorTutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "e1a97e7a6a6c49175c3a0b0fa1f2ed6a",
-			"FullPackageHash": "d33faeaf4f33b8cbcd90bfc49e2dade1",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/SubEditors/ParticleSystemEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/SubEditors/ParticleSystemEditorTutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "59ef43a94410315802277bfe5208c570",
-			"FullPackageHash": "ccb822046acc49a557d4688d18f18dae",
+			"DependentPackageHash": "6467a1daa7d5da64bf5df93f91cc38df",
+			"FullPackageHash": "267eab877c4f877a557f4acb834154dd",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -7773,99 +9514,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview",
-			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview",
+			"SourcePackageName": "/Engine/Tutorial/Paper2D/SpriteEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/Paper2D/SpriteEditorTutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "6467a1daa7d5da64bf5df93f91cc38df",
-			"FullPackageHash": "267eab877c4f877a557f4acb834154dd",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/Basics/LevelEditorAttract",
-			"CookedPackageName": "/Engine/Tutorial/Basics/LevelEditorAttract",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "b14b9ec5b019094cf415e76312e7e079",
-			"FullPackageHash": "6cce638b46ac228277e18622b5dc1c89",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib",
-			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "aa95bcd3ebfa1f4c2e74b9b9a22e59b7",
-			"FullPackageHash": "17e0dfc79bd1d8d4fd16ffed4cf870de",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/Basics/LevelEditorOverview",
-			"CookedPackageName": "/Engine/Tutorial/Basics/LevelEditorOverview",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "241e9fdf0df9eeb40b0520558fc26e1a",
-			"FullPackageHash": "096771230279b10d9c4d4e7b17d665a8",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/SubEditors/MaterialEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/SubEditors/MaterialEditorTutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "743ed8012d09029c059a7d1ec99e2f28",
-			"FullPackageHash": "5d398235aaaf28ea9471e3aa9eba36a8",
+			"DependentPackageHash": "f7e4b1013fbf95540c9287c559c2be0d",
+			"FullPackageHash": "51335c85dcf6a454bc0cbebf4226f331",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -7899,15 +9556,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/Paper2D/SpriteEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/Paper2D/SpriteEditorTutorial",
+			"SourcePackageName": "/Engine/Tutorial/SubEditors/MaterialEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/SubEditors/MaterialEditorTutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "f7e4b1013fbf95540c9287c559c2be0d",
-			"FullPackageHash": "51335c85dcf6a454bc0cbebf4226f331",
+			"DependentPackageHash": "743ed8012d09029c059a7d1ec99e2f28",
+			"FullPackageHash": "5d398235aaaf28ea9471e3aa9eba36a8",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -7920,15 +9577,57 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
-			"CookedPackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
+			"SourcePackageName": "/Engine/Tutorial/SubEditors/DestructibleMeshEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/SubEditors/DestructibleMeshEditorTutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "fd914cfb103d6c8c8cfb35cedd0d16ea",
-			"FullPackageHash": "53aeb738d00dc0efe180e887577023d7",
+			"DependentPackageHash": "e1a97e7a6a6c49175c3a0b0fa1f2ed6a",
+			"FullPackageHash": "d33faeaf4f33b8cbcd90bfc49e2dade1",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview",
+			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "47c1ca339a1fb7bb4343ad9e4bd5425f",
+			"FullPackageHash": "a02d2d505742df139c0086138b1982a3",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/Paper2D/FlipbookEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/Paper2D/FlipbookEditorTutorial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "e6746ee2173a0661a5d006fe8198de21",
+			"FullPackageHash": "8ec82900440995dd1a5d487a212d9d97",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -7984,6 +9683,48 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib",
+			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "aa95bcd3ebfa1f4c2e74b9b9a22e59b7",
+			"FullPackageHash": "17e0dfc79bd1d8d4fd16ffed4cf870de",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/SubEditors/ParticleSystemEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/SubEditors/ParticleSystemEditorTutorial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "59ef43a94410315802277bfe5208c570",
+			"FullPackageHash": "ccb822046acc49a557d4688d18f18dae",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Intro_Tutorial",
 			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Intro_Tutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -7993,6 +9734,69 @@
 			"SucceededSave": "false",
 			"DependentPackageHash": "d010371dde52393cea2247a5604d448f",
 			"FullPackageHash": "4cf4bb66ff14ae9900fb889d540f8f28",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
+			"CookedPackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "fd914cfb103d6c8c8cfb35cedd0d16ea",
+			"FullPackageHash": "53aeb738d00dc0efe180e887577023d7",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial",
+			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "13c61c27dbb3f2fc194abf1b7b60e274",
+			"FullPackageHash": "1f68201605e07f87c11908c512377f54",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
+			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "013e3910239eced29240eaad86f18d89",
+			"FullPackageHash": "f85d7a5026b43446a3fb5438b8e7a005",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -8042,48 +9846,6 @@
 				"/Script/Engine",
 				"/Script/IntroTutorials",
 				"/Script/Landscape",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial",
-			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "13c61c27dbb3f2fc194abf1b7b60e274",
-			"FullPackageHash": "1f68201605e07f87c11908c512377f54",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
-			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "013e3910239eced29240eaad86f18d89",
-			"FullPackageHash": "f85d7a5026b43446a3fb5438b8e7a005",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
 				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
